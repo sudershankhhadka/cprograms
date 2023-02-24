@@ -2,7 +2,7 @@
 //to add 2 integers
 
 #include<stdio.h>
-int add(int,int);   //int add(int,int);
+int add(int a,int b);   //int add(int,int);
 int main()
 {
     int a,b;
